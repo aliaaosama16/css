@@ -1,0 +1,27 @@
+/* 
+    selector {
+    property: value;
+    }
+
+    selector => may be : element or class or id 
+    notice: use id as selector for style not best practice
+
+*/
+p {
+  color: red;
+  font-size: 40px;
+}
+p {
+  color: green;
+  font-size: 40px;
+}
+
+body {
+  background-color: yellow;
+  /* background-color: rgb(0 0 0/50%);  // alpha channel */
+  background-color: #6729d3;
+  background-image: url("./../images/back.png");
+  /* repeat ,  no-repeat ,repeat-x ,repeat-y */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
