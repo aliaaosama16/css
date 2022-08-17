@@ -1,0 +1,48 @@
+.assign1 {
+  display: inline-block;
+  padding: 43px;
+  background-color: #eee;
+  text-align: center;
+  font-size: 23px;
+  outline-style: solid;
+  outline-width: 10px;
+  outline-color: black;
+  margin: 0px 3.9% 10px;
+}
+
+.div1 {
+  border: 10px solid red;
+}
+.div2 {
+  border-width: 10px;
+  border-style: solid;
+  border-color: blue green;
+}
+.div3 {
+  border-width: 10px;
+  border-style: dashed;
+  border-color: red green blue yellow;
+}
+
+.assign2 {
+  width: 400px;
+  font-size: 30px;
+  padding: 20px;
+  background-color: #eee;
+  margin: 10px;
+}
+
+#span1{
+  border-left: 10px solid red;
+  padding: 0 10px;
+}
+#span2{
+  border-left: 10px solid red;
+  padding: 0 10px;
+}
+#span3{
+  border-left: 10px solid green;
+  padding: 0 10px;
+}
+
+
