@@ -1,8 +1,57 @@
-div{
-    background-color: antiquewhite;
-    color: #9e9e9e;
-    font-size: 30px;
-    text-shadow: 2px 2px #ff0000;
-    text-align: center;
-    direction: ltr;
+.assign1 {
+  font-size: 86px;
+  text-transform: capitalize;
+  text-shadow: 3px 3px red, 4px 4px blue, 7px 7px violet;
+  letter-spacing: 3px;
+}
+
+.one {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.two {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.three {
+  text-transform: lowercase;
+  text-align: center;
+}
+
+.assign3 {
+  width: 400px;
+  background-color: #eee;
+  padding: 20px;
+  margin: 20px;
+}
+
+.shape1 {
+  white-space: normal;
+}
+.shape2 {
+  white-space: nowrap;
+  overflow: hidden;
+}
+.shape3 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+a{
+    height: 200px;
+    background-color: #009688;
+    width: 400px;
+    margin: 0 auto;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom:16px solid #113e11;
+    text-decoration: none;
+    font-size:40px;
+    color:white;
+    text-transform: capitalize;
 }
