@@ -1,0 +1,10 @@
+div {
+  font-size: 30px;
+  text-align: center;
+  color: green;
+}
+h3 {
+  text-align: center;
+  color: green;
+  font-size: inherit;
+}
