@@ -1,4 +1,4 @@
-div {
+/* div {
   font-size: 30px;
   text-align: center;
   color: green;
@@ -7,4 +7,67 @@ h3 {
   text-align: center;
   color: green;
   font-size: inherit;
+} */
+html {
+  font-size: 20px;
+}
+.test {
+  font-size: 20px;
+}
+
+.test h3 {
+  font-size: 2em;
+}
+
+.assign1-1 {
+  border: 3px solid red;
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.assign1-2 {
+  border: 3px solid green;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Cairo", Arial, Helvetica, sans-serif;
+}
+
+.assign1-1 p,
+.assign1-2 p {
+  border: inherit;
+  padding: inherit;
+  background-color: #d2cdcd;
+  text-transform: capitalize;
+}
+
+.assign2 {
+  text-align: center;
+  border: 1px solid;
+  margin-top: 10px;
+}
+.assign2-1 {
+  font-family: "Open Sans";
+}
+.assign2-2 {
+  font-family: "Cairo";
+}
+.assign2-3 {
+  font-family: "Jomhuria";
+}
+.assign3 {
+  margin-top: 10px;
+  text-align: center;
+  border: 1px solid;
+}
+.assign3-1 {
+  font-size: 2.5rem;
+}
+.assign3-2 {
+  font-size: 2rem;
+}
+.assign3-3 {
+  font-size: 1.5rem;
 }

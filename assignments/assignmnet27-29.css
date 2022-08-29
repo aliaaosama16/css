@@ -1,0 +1,24 @@
+.assign1{
+  
+    background-color: #eee;
+    padding: 20px;
+}
+
+.assign1-1{
+    width: 100%;
+    margin: 20px;
+    text-align: center;
+    background-color: #dad8d8;
+    padding: 10px;
+    display: flex;
+    font-size: 24px;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: capitalize;
+}
+
+.assign1-2{
+    width: 33%;
+    background-color: #dad8d8;
+    float: left;
+}
